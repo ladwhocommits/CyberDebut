@@ -21,7 +21,7 @@ Using tryhackme's resource for building fundamentals in cyber security .
 * **VirusTotal** is a popular resource in the *blue teaming* community for obtaining a general consensus on suspicious files and links, as well as for gathering intelligence on new threats .
 * **Common Vulnerabilities and Exposures** (CVE) programme can be described as a universal dictionary of known vulnerabilities. Each Vulnerability is assigned a unique Identifier in the format of *CVE-YEAR-NUMBER* and they are given scores *(CVSS)* on the basis of some factors like *Impact , Complexity and Availability *
    Linux MANual pages helps us to read within our terminal about any command of Linux .
-    * **Format** man '<'command'>'
+    * **Format** *man *< command >**
 
 <!-- Template For Future Push
 ### 🛡️ Lab <Digit>: <name>
