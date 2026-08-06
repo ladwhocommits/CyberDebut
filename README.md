@@ -42,7 +42,9 @@ A command is an instruction that we can give the computer to perform a given tas
 
     ![](Pasted%20image%2020260806122346.png)
 *  `cat` - Shows the Contents of a File
+  
     ![](Pasted%20image%2020260806122445.png)
+    
 *  `pwd` - Prints the present working directory - " where am i ?" 
 
     ![](Pasted%20image%2020260806122518.png)
