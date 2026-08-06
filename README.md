@@ -30,31 +30,31 @@ Using `tryhackme.com` resources for building fundamentals in cyber security .
 
 A command is an instruction that we can give the computer to perform a given task. Here we will learn some basic Linux terminal commands to get comfortable with the Command Line User Interface .
  * `whoami` - Tells the current user of the system .
-    ![](Pasted%20Image%2020260806121414.png)
+    ![](Pasted%20image%2020260806121414.png)
  * `echo` - Prints the Phrase followed by this command . 
-    ![](Pasted%20Image%2020260806121434.png)
+    ![](Pasted%20image%2020260806121434.png)
 * `ls` - Lists what is in the Current Folder/Directory
-    ![](Pasted%20Image%2020260806122233.png)
+    ![](Pasted%20image%2020260806122233.png)
 *  `cd` - Changes Directory
-    ![](Pasted%20Image%2020260806122346.png)
+    ![](Pasted%20image%2020260806122346.png)
 *  `cat` - Shows the Contents of a File
-    ![](Pasted%20Image%2020260806122445.png)
+    ![](Pasted%20image%2020260806122445.png)
 *  `pwd` - Prints the present working directory - " where am i ?" 
-    ![](Pasted%20Image%2020260806122518.png)
+    ![](Pasted%20image%2020260806122518.png)
 *  `find` - Searches for files by their names .
 * `grep` -  Searches inside for text .
-    ![](Pasted%20Image%2020260806123004.png)
+    ![](Pasted%20image%2020260806123004.png)
 
 In Linux , There are set of Special Characters that can combine commands together or send the output of a command elsewhere , these special characters are called *Operators* . 
 * `&` -  The command runs in the background . 
 * `&&` - Runs Both the Commands but waits for the first command to finish , before the next .
 * `>` - To take the output of a command and send it to elsewhere , like a file . This command will overwrite anything that's written in that File .
-    ![](Pasted%20Image%2020260806124526.png)
+    ![](Pasted%20image%2020260806124526.png)
 * `>>` - Just like the previous `>` operator but instead of overwriting , it adds the output of the command to the bottom line of the file .
    
-    ![](Pasted%20Image%2020260806124557.png)
+    ![](Pasted%20image%2020260806124557.png)
     Now overwriting this file with `>` redirect operator 
-   ![](Pasted%20Image%2020260806124713.png)
+   ![](Pasted%20image%2020260806124713.png)
    
 <!-- Template For Future Push
 ### 🛡️ Lab <Digit>: <name>
