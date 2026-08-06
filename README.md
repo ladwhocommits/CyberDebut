@@ -30,9 +30,9 @@ Using `tryhackme.com` resources for building fundamentals in cyber security .
 
 A command is an instruction that we can give the computer to perform a given task. Here we will learn some basic Linux terminal commands to get comfortable with the Command Line User Interface .
  * `whoami` - Tells the current user of the system .
-    ![](Pasted%20Image%2020260806121414.png|277)
+    ![](Pasted%20Image%2020260806121414.png)
  * `echo` - Prints the Phrase followed by this command . 
-    ![](Pasted%20Image%2020260806121434.png|521)
+    ![](Pasted%20Image%2020260806121434.png)
 * `ls` - Lists what is in the Current Folder/Directory
     ![](Pasted%20Image%2020260806122233.png)
 *  `cd` - Changes Directory
@@ -43,7 +43,7 @@ A command is an instruction that we can give the computer to perform a given tas
     ![](Pasted%20Image%2020260806122518.png)
 *  `find` - Searches for files by their names .
 * `grep` -  Searches inside for text .
-    ![](Pasted%20Image%2020260806123004.png|682)
+    ![](Pasted%20Image%2020260806123004.png)
 
 In Linux , There are set of Special Characters that can combine commands together or send the output of a command elsewhere , these special characters are called *Operators* . 
 * `&` -  The command runs in the background . 
