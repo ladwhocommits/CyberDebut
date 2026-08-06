@@ -54,7 +54,7 @@ In Linux , There are set of Special Characters that can combine commands togethe
    
     ![](Pasted%20image%2020260806124557.png)
     Now overwriting this file with `>` redirect operator 
-   ![](Pasted%20image%2020260806124713.png)
+    ![](Pasted%20image%2020260806124713.png)
    
 <!-- Template For Future Push
 ### 🛡️ Lab <Digit>: <name>
