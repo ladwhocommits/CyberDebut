@@ -53,7 +53,7 @@ In Linux , There are set of Special Characters that can combine commands togethe
 * `>>` - Just like the previous `>` operator but instead of overwriting , it adds the output of the command to the bottom line of the file .
    
     ![[Pasted image 20260806124557.png]]
-   Now overwriting this file with `>` redirect operator 
+    Now overwriting this file with `>` redirect operator 
    ![[Pasted image 20260806124713.png]]
    
 <!-- Template For Future Push
