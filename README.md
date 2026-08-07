@@ -70,3 +70,18 @@ In Linux , There are set of Special Characters that can combine commands togethe
 ### 🛡️ Lab <Digit>: <name>
  <Core Concepts >
 -->
+
+  <!-- Cant continue the Linux Fundamental Module as its behind a paywall , will have to continue with free resources for now . -->
+## MODULE 3: Careers in Cyber 
+
+* ### Security Analyst  
+      Security Analyst are often referred to as the digital defenders of an organisation and sit on the *blue team* . They use their skills to investigate potential security incidents , known as **alerts** , and respond accordingly . 
+      
+    * ***Day in life of Security Analyst**
+    
+        *  Monitoring Activity taking place on the device and network of the organisation.
+        * Investigating unusual or suspicious activity , such as strange logins .
+        * Piecing together Information to understand what has happened , when and how .
+        * Working with other team to improve the organisation's defence .
+       
+
