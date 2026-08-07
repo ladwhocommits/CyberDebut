@@ -1,21 +1,18 @@
 # CyberDebut
+
 Tracking my Cyber Security Progress starting from void .
+Using `tryhackme.com`  Free resources for building fundamentals in cyber security .
 
-#  Cyber Security 101 
+## LEVEL 1 :  Getting Started
+Building Basic Fundamentals of Cyber Security in this Set of Modules .
 
-Using `tryhackme.com` resources for building fundamentals in cyber security .
-
----
-## MODULE 1: Start Your Cyber Security Journey
-
-
-### 🛡️ Lab 1: Introduction to Offensive Security
+###  Module 1 : Introduction to Offensive Security
  Offensive Security is about thinking like an attacker to find weaknesses before real hackers do. One common thing Hackers look for on a website is pages that are not linked . We used `dirb` in this module to scan a url in order to find pages that are not linked . This is a brute forcing tool . Requiring Login to Certain pages can help to strengthen the defence of the url.
 
-### 🛡️ Lab 2: Introduction to Defensive Security
+### Module 2 : Introduction to Defensive Security
  Defensive security, is about keeping hackers out and acting when it goes wrong.  Security Operations Centre (SOC) is  the central hub for defending an organisation.  In defensive security, we share information about attackers,  This is known as threat intelligence . The monitoring dashboard shows a history of what the attacker is trying to find on our website. Incident reports allow us to reflect, train, and detail any attack and it  is helpful for us in defensive security .
 
-### 🛡️ Lab 3: Search Skills
+###  Module 3 : Search Skills
  This module teaches us to use the internet effectively for gathering information about services for both Offensive and Defensive Cyber security . For Example , we have
 * **Shodan** which scans the internet for virtually anything  with a public network connection to see what's running and where .
 * **VirusTotal** is a popular resource in the *blue teaming* community for obtaining a general consensus on suspicious files and links, as well as for gathering intelligence on new threats .
@@ -23,10 +20,7 @@ Using `tryhackme.com` resources for building fundamentals in cyber security .
  *  Linux MANual pages helps us to read within our terminal about any command of Linux .
     * **Format** `man < command >`
 
-
-## MODULE 2: Linux Fundamentals 
-
-### 🛡️ Lab 1 : Linux Fundamentals : Part 1 
+### Module 4 : Linux Fundamentals : Part 1 
 
 A command is an instruction that we can give the computer to perform a given task. Here we will learn some basic Linux terminal commands to get comfortable with the Command Line User Interface .
  * `whoami` - Tells the current user of the system .
@@ -66,13 +60,8 @@ In Linux , There are set of Special Characters that can combine commands togethe
     
     ![](Pasted%20image%2020260806124713.png)
    
-<!-- Template For Future Push
-### 🛡️ Lab <Digit>: <name>
- <Core Concepts >
--->
 
-  <!-- Cant continue the Linux Fundamental Module as its behind a paywall , will have to continue with free resources for now . -->
-## MODULE 3: Careers in Cyber 
+### Module 5 : Careers in Cyber 
 
 * ### Security Analyst  
       Security Analyst are often referred to as the digital defenders of an organisation and sit on the *blue team* . They use their skills to investigate potential security incidents , known as **alerts** , and respond accordingly . 
