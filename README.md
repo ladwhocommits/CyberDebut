@@ -66,7 +66,7 @@ In Linux , There are set of Special Characters that can combine commands togethe
  *  **Security Analyst**  
       Security Analyst are often referred to as the digital defenders of an organisation and sit on the *blue team* . They use their skills to investigate potential security incidents , known as **alerts** , and respond accordingly . 
       
-  * ***Day in life of Security Analyst**
+   * **Day in life of Security Analyst**
     
         *  Monitoring Activity taking place on the device and network of the organisation.
         * Investigating unusual or suspicious activity , such as strange logins .
