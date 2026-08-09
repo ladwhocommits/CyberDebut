@@ -64,7 +64,7 @@ In Linux , There are set of Special Characters that can combine commands togethe
 ### Module 5 : Careers in Cyber 
 
  *  **Security Analyst**  
-      Security Analyst are often referred to as the digital defenders of an organisation and sit on the *blue team* . They use their skills to investigate potential security incidents , known as **alerts** , and respond accordingly . 
+     Security Analyst are often referred to as the digital defenders of an organisation and sit on the *blue team* . They use their skills to investigate potential security incidents , known as **alerts** , and respond accordingly . 
       
    * **Day in life of Security Analyst**
     
@@ -75,6 +75,5 @@ In Linux , There are set of Special Characters that can combine commands togethe
        
 
  * **Security Engineer**
-
-       Security Engineers build and maintain the systems and processes that protect an organisation's network and devices and are known as architect of cybersecurity.
+     Security Engineers build and maintain the systems and processes that protect an organisation's network and devices and are known as architect of cybersecurity.
 
