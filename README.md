@@ -74,3 +74,6 @@ In Linux , There are set of Special Characters that can combine commands togethe
         * Working with other team to improve the organisation's defence .
        
 
+ * **Security Engineer**
+       Security Engineers build and maintain the systems and processes that protect an organisation's network and devices and are known as architect of cybersecurity.
+
