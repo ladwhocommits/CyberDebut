@@ -1,4 +1,4 @@
-# CyberDebut
+# Cyber Debut
 
 Tracking my Cyber Security Progress starting from void .
 Using  Free resources for building fundamentals in cyber security .
@@ -73,8 +73,9 @@ In Linux , There are set of Special Characters that can combine commands togethe
         * Investigating unusual or suspicious activity , such as strange logins .
         * Piecing together Information to understand what has happened , when and how .
         * Working with other team to improve the organisation's defence .
-       
 
- * **Security Engineer**
-     Security Engineers build and maintain the systems and processes that protect an organisation's network and devices and are known as architect of cybersecurity.
+
+* **Security Engineer**
+       Security Engineers build and maintain the systems and processes that protect an organisation's network and devices and are known as architect of cyber-security.
+       They are responsible for maintaining an **Intrusion Detection System** *(IDS)* which can be considered a security camera with an organisation's digital environment .
 
