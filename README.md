@@ -3,9 +3,11 @@
 Tracking my Cyber Security Progress starting from void .
 Using  Free resources for building fundamentals in cyber security .
 
+
 ## LEVEL 1 :  Getting Started
-Building Basic Fundamentals of Cyber Security in this Set of Modules .
-Source - TryHackMe Free 
+
+*Building Basic Fundamentals of Cyber Security in this Set of Modules .
+Source - TryHackMe Free*
 
 ###  Module 1 : Introduction to Offensive Security
  Offensive Security is about thinking like an attacker to find weaknesses before real hackers do. One common thing Hackers look for on a website is pages that are not linked . We used `dirb` in this module to scan a url in order to find pages that are not linked . This is a brute forcing tool . Requiring Login to Certain pages can help to strengthen the defence of the url.
@@ -80,5 +82,7 @@ In Linux , There are set of Special Characters that can combine commands togethe
        They are responsible for maintaining an **Intrusion Detection System** *(IDS)* which can be considered a security camera with an organisation's digital environment .
 
  End of Module , And level 1 . As far as current level is concerned and the knowledge about cyber-security field i have got , I'm interested in Offensive Security .  
+
+
 
 ## LEVEL 2 : Tooling 
