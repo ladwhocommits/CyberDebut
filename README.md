@@ -85,8 +85,17 @@ In Linux , There are set of Special Characters that can combine commands togethe
 
 
 
+
+## Level 1.5 : Prerequisites Before Moving to Level 2
+Here we will study some topics which we should know in order to have a great command on the upcoming Level 2 . 
+
+### Module A : Web Application Basics  
+
+
 ## LEVEL 2 : Tooling 
 Learning some tools needed in Ethical Hacking .
 
 ###  Module 1 : NMap : Discovering Live Hosts
-NMap is a short abbreviation for Network Mapping . It is a free , open source software released under the GPL License , created by Gordon Lyon(Fydoor) . 
+NMap is a short abbreviation for Network Mapping . It is a free , open source software released under the GPL License , created by Gordon Lyon(Fydoor) . It is an Industry Standard tool for mapping networks , identifying live hosts and discovering running services 
+
+<!-- COmplete level 1.5 Before Moving to Level 2 -- > 
