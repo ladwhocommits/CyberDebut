@@ -108,6 +108,9 @@ Also there is a "Back End" of a web application , which consist of Database (To 
 	 * **Path** : `CyberDebut` ; Points to the specific page you are accessing .
 	 * **Fragment** : (Not in this example) ; Starts with `#` to specifically point to a particular section of a web page  . 
 
+### HTTP Messages : 
+These are packets of  data exchange between the user and the web server . They are important in understanding the web application's work by showing how the user's request and server's response are communicated .
+
 ## LEVEL 2 : Tooling 
 Learning some tools needed in Ethical Hacking .
 
